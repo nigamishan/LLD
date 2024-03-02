@@ -1,0 +1,8 @@
+
+
+player_count: 2
+board_size: 10
+snake_count: 3
+ladder_count: 2
+die_count: 3
+move_strategy: "MAX"
